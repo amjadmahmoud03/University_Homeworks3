@@ -1,0 +1,11 @@
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\bin\Debug\net8.0\LoanApp.Core.deps.json
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\bin\Debug\net8.0\LoanApp.Core.dll
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\bin\Debug\net8.0\LoanApp.Core.pdb
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\obj\Debug\net8.0\LoanApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\obj\Debug\net8.0\LoanApp.Core.AssemblyInfoInputs.cache
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\obj\Debug\net8.0\LoanApp.Core.AssemblyInfo.cs
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\obj\Debug\net8.0\LoanApp.Core.csproj.CoreCompileInputs.cache
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\obj\Debug\net8.0\LoanApp.Core.dll
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\obj\Debug\net8.0\refint\LoanApp.Core.dll
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\obj\Debug\net8.0\LoanApp.Core.pdb
+D:\Study\Software_Engeneering_2\LoanApp\LoanApp.Core\obj\Debug\net8.0\ref\LoanApp.Core.dll
