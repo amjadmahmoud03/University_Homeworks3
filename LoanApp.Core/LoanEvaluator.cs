@@ -15,3 +15,8 @@ public static class LoanEvaluator
 
     private static bool IsLowIncome(int income) => income < 2000;
 }
+
+// 3 
+// 2
+//  
+
